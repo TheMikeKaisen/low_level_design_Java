@@ -109,7 +109,7 @@ class FilePersistence implements Persistence {
 }
 
 // Main class to demonstrate how everything works together
-public class OCPFollowed {
+public class OCP_followed {
 
     public static void main(String[] args) {
 

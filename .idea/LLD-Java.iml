@@ -4,6 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/01_solid_principles/01_single_responsibility_principle/solution" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01_solid_principles/031_LSP_RULES/MethodRules" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

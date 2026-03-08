@@ -71,7 +71,7 @@ class ShoppingCartStorage {
     }
 }
 
-public class OCPViolated {
+public class OCP_violated {
     public static void main(String[] args) {
         ShoppingCart cart = new ShoppingCart();
 
